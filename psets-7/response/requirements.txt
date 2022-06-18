@@ -1,0 +1,4 @@
+attrs==21.4.0
+jsonschema==4.6.0
+pyrsistent==0.18.1
+validator-collection==1.5.0
